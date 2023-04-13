@@ -1,0 +1,150 @@
+
+
+body{
+    background-color:black;
+}
+.bus{
+    text-align: center;
+    text-transform: uppercase;
+    color: navy;
+}
+h2{
+    color:navy;
+    text-align: start;
+    text-transform: uppercase;
+    text-decoration: solid;
+    background-color: orange;
+    margin-right: 26cm;
+}
+li{
+    color: navy;
+    text-align: start;
+    text-transform: capitalize;
+    font-size: large;
+    margin-bottom: 0%;
+}
+ul{
+    color: white;
+    border: 0ch;
+}
+.price{
+    background-color: yellow;
+    margin-left: 10cm;
+    margin-right: 10cm;
+    
+}
+.contacts{
+    background-color: yellow;
+    margin-right: 14cm;
+}
+.location{
+    background-color: orange;
+    margin-right: 11cm;
+}
+p{
+    color: navy;
+    text-align: start;
+    text-transform: capitalize;
+    font-weight: bold;
+}
+.part{
+    color: navy;
+    text-align: left;
+    text-transform: capitalize;
+    font-weight: bold;
+}
+.container{
+    display: flex;
+    justify-items: center;
+    flex-direction: column;
+    position: relative;
+    background-color:yellow;
+    border-radius: 20%;
+    margin-top: 1%;
+}
+.Dinner{
+    background-color: yellowgreen;
+    height: 300px;
+    width: 1250px;
+    border-radius: 40%;
+
+}
+.logo{
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    margin-left: 13cm;
+    flex-direction: column;
+}
+img{
+    height: 200px;
+    width: 307px;
+}
+.hotel{
+    height: 550px;
+    width: 1250px;
+    margin-top: 0%;
+    border-color: brown;
+    border-radius: 10%;
+     justify-content: center;
+     text-align: center;
+
+}
+h1{
+    text-align: center;
+    color: black;
+    text-transform: uppercase;
+    font-size: large;
+
+}
+#bag{
+    background-color: orange;
+    flex-direction: column;
+    display: flex;
+    border-radius: 100%;
+    margin-top: 0%;
+}
+.omo{
+    color: navy;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 100;
+    margin-top: 0%;
+}
+.up{
+    height: 210px;
+    width: 300px;
+    border-radius: 50%;
+    background-color: yellow;
+    margin-top: 5ch;
+
+}
+
+/*.food1{
+    height: 200px;
+    width: 200px;
+    background-color: navy;
+    margin-left: 3cm;
+    border-radius: 25%;
+}
+.food2{
+    height: 200px;
+    width: 200px;
+    background-color: navy;
+    margin-left: 5cm;
+    border-radius: 25%; 
+}
+.food3{
+    height: 200px;
+    width: 200px;
+    background-color: navy;
+    margin-left: 7cm;
+    border-radius: 25%;
+}
+.food4{
+    height: 200px;
+    width: 200px;
+    border-radius: 25%;
+    background-color: navy;
+    margin-left: 9cm;
+} */
